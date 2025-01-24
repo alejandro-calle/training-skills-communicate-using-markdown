@@ -9,3 +9,5 @@
 ##### 5th level header
 
 ###### 6th level header
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
